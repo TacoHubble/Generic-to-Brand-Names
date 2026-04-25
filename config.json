@@ -1,0 +1,12 @@
+{
+  "only_if_note_has_any_tag": [],
+  "only_if_deck_startswith": [],
+  "case_sensitive": false,
+  "delimiter": "; ",
+  "insert_format": " {brandparen}",
+  "extra_map": {},
+  "debug_flag": "",
+  "exclude_terms": [],
+  "exclude_decks": [],
+  "exclude_tags": []
+}

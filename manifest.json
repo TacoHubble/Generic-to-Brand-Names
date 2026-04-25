@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Generic-to-Brand Name Add-on",
+  "package": "drug_brand_parentheses",
+  "author": "Kendall Cherry",
+  "version": "2.1.0",
+  "config": {},
+  "mod": 0,
+  "homepage": ""
+}
