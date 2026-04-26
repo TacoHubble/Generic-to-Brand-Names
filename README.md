@@ -25,4 +25,4 @@ Access settings via **Tools -> Generic to Brand Names**.
 <img width="698" height="778" alt="Image" src="https://github.com/user-attachments/assets/14aac915-be00-4ee1-b81c-58ab6ae1e9ed" />
 
 ## ✍️ Author
-* **Kendall Cherry** - *Initial Work & Pharmacology Library*
+* **Kendall Cherry**
