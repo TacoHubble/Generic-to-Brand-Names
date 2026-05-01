@@ -28,6 +28,6 @@ Access settings via **Tools -> Generic to Brand Names**.
 * **Kendall Cherry**
 
 
-<img width="1125" height="2436" alt="Image" src="https://github.com/user-attachments/assets/f4321a1b-540f-4447-9188-21a6cdf51645" />
+<img width="563" height="1218" alt="Image" src="https://github.com/user-attachments/assets/f4321a1b-540f-4447-9188-21a6cdf51645" />
 
-<img width="1125" height="2436" alt="Image" src="https://github.com/user-attachments/assets/c814343c-fe53-4385-888a-356a25e4ffb9" />
+<img width="563" height="1218" alt="Image" src="https://github.com/user-attachments/assets/c814343c-fe53-4385-888a-356a25e4ffb9" />
