@@ -27,6 +27,10 @@ Access settings via **Tools -> Generic to Brand Names**.
 * **Kendall Cherry**
 
 
-<img width="563" height="1218" alt="Image" src="https://github.com/user-attachments/assets/f4321a1b-540f-4447-9188-21a6cdf51645" />
+## 📱 Seamless Mobile Support
+Study anywhere without losing context. This add-on modifies your notes at the database level, ensuring that brand name mappings appear perfectly on **AnkiMobile (iOS)** and **AnkiDroid**, just like they do on desktop.
 
-<img width="563" height="1218" alt="Image" src="https://github.com/user-attachments/assets/c814343c-fe53-4385-888a-356a25e4ffb9" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f4321a1b-540f-4447-9188-21a6cdf51645" width="48%" alt="Mobile Before" />
+  <img src="https://github.com/user-attachments/assets/c814343c-fe53-4385-888a-356a25e4ffb9" width="48%" alt="Mobile After" />
+</p>
