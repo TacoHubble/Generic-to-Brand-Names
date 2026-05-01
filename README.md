@@ -32,11 +32,10 @@ Study anywhere without losing context. This add-on modifies your notes at the da
 * <b>Custom Mapping</b>: Add your own drug pairs via a streamlined UI directly in Anki's Tools menu
 
 ### Desktop Preview
-**Before:**
-<img width="100%" alt="Before" src="https://github.com/user-attachments/assets/c3f8f379-dcef-467d-9424-8849c839a398" />
+**Before** and **After:**
+<img width="1200" height="554" alt="Image" src="https://github.com/user-attachments/assets/befc887d-ee66-4886-9970-1b75894c4a29" />
 
-**After:**
-<img width="100%" alt="After" src="https://github.com/user-attachments/assets/029ab42b-276b-43da-ad34-6ee692e53146" />
+
 
 ---
 
@@ -66,4 +65,3 @@ Access settings via <b>Tools &rarr; Generic to Brand Names</b>
 ## ✍️ Author
 * <b>Kendall Cherry</b>
 
-<img width="1876" height="984" alt="Image" src="https://github.com/user-attachments/assets/befc887d-ee66-4886-9970-1b75894c4a29" />
