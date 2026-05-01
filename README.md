@@ -22,7 +22,6 @@ Access settings via **Tools -> Generic to Brand Names**.
 * **Case Sensitivity**: Toggle strict matching.
 * **Delimiters**: Customize how multiple brand names are separated (default is `; `).
 * **Exclusions**: Manage your excluded decks and tags through the dedicated UI.
-<img width="698" height="778" alt="Image" src="https://github.com/user-attachments/assets/14aac915-be00-4ee1-b81c-58ab6ae1e9ed" />
 <img width="698" height="778" alt="Image" src="https://github.com/user-attachments/assets/140324a1-0fb0-4ae2-9606-d4df7f852fac" />
 ## ✍️ Author
 * **Kendall Cherry**
