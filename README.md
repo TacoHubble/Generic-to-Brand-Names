@@ -65,3 +65,6 @@ Access settings via <b>Tools &rarr; Generic to Brand Names</b>
 
 ## ✍️ Author
 * <b>Kendall Cherry</b>
+
+
+<img width="504" height="360" alt="Image" src="https://github.com/user-attachments/assets/ad4cddc7-4535-4ef1-9ba8-3eef3f4bc995" />
