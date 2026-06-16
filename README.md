@@ -62,6 +62,3 @@ Access settings via <b>Tools &rarr; Generic to Brand Names</b>
 
 ---
 
-## ✍️ Author
-* <b>Kendall Cherry</b>
-
